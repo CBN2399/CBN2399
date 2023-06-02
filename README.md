@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm César Bartolomé 👋
 
 <!--
 **CBN2399/CBN2399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
