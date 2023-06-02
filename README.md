@@ -1,4 +1,5 @@
-### Hello, I'm César Bartolomé 👋
+![Blue Yellow Futuristic Virtual Technology Blog Banner](https://github.com/CBN2399/CBN2399/assets/114177225/af5fb3c8-1da7-4e0f-a837-9fa9ae537fbe)
+
 
 <!--
 **CBN2399/CBN2399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
