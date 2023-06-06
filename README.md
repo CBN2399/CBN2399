@@ -4,7 +4,7 @@
 
 ## Personal information
 - 🔭 I’m currently working on **.NET**,specifically in the develop of a **rest service**.
-- 🌱 I’m currently learning **Angular.js** and**PHP** with **laravel framework**
+- 🌱 I’m currently learning **Angular.js** and **PHP** with **laravel framework**
 - ⚡ Fun fact:  **I love Super Mario's video games** 🎮
 
 
